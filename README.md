@@ -27,12 +27,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./Desktop_design.png)
-[](./Mobile_design.png)
+![](./Mobile_design.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nebiyouersabo.github.io/four-card-feature/
 
 ## My process
 
